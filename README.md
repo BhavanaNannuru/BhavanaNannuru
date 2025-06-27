@@ -1,15 +1,20 @@
 <h1 align="center">Hi, I’m Bhavana Nannuru 👋</h1>
 <div align="center">
-<i>Curious by nature. Driven by challenges. Energized by purpose.</i><br>
 Python Automation &nbsp;|&nbsp;
 Pentester &nbsp;|&nbsp;
 Red Teamer &nbsp;|&nbsp;
 Data Engineer &nbsp;|&nbsp;
 Angular Developer &nbsp;|&nbsp;
 NSS Volunteer
-
+  <br>
+  <br>
+  
+  <strong>B.Tech CSE</strong>, Amrita Vishwa Vidyapeetham (2021–2025) <br>
+  <strong>Software Developer Intern</strong> — Providence India (June – Aug 2024) &nbsp;|&nbsp;
+  <strong>Data Engineering Intern</strong> — Providence India (Jan – May 2025)
 </div>
 <br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavana-n21411/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bhavananannuru@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
@@ -17,16 +22,7 @@ NSS Volunteer
 </p>
 
 
-### 🎓 Education  
-**B.Tech in Computer Science**  
-_Amrita Vishwa Vidyapeetham_  
-2021 – 2025  
 
-### 💼 Experience  
-**Providence India — Internship**  
-**→** Data Engineering (5 months)  
-**→** Software Development (2 months)  
- 
 ---
 <h3>💻 Programming Languages</h3>
 <div align="center">
@@ -144,4 +140,15 @@ _Amrita Vishwa Vidyapeetham_
 > “Stay positive, work hard, and make it happen!”
 
 ---
+
+
+
+## 📊 GitHub Stats
+
+![BhavanaNannuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavanaNannuru&show_icons=true&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=BhavanaNannuru&theme=github-dark&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BhavanaNannuru&theme=github-dark)
+
+<!-- Or use your custom screenshot if you prefer -->
+<!-- ![Contributions calendar](image1) -->
 
