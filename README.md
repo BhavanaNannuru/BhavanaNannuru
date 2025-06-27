@@ -11,7 +11,7 @@ NSS Volunteer
   
   <strong>B.Tech CSE</strong>, Amrita Vishwa Vidyapeetham (2021–2025) <br>
   <strong>Software Developer Intern</strong> — Providence India (June – Aug 2024) &nbsp;|&nbsp;
-  <strong>Data Engineering Intern</strong> — Providence India (Jan – May 2025)
+  <strong>Data Engineering Intern</strong> — Providence India (Jan – Jun 2025)
 </div>
 <br>
 
