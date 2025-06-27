@@ -16,24 +16,18 @@ NSS Volunteer
   <a href="https://tryhackme.com/p/bhavananaidu18"><img src="https://img.shields.io/badge/TryHackMe-000000?logo=tryhackme&logoColor=white" /></a>
 </p>
 
-## 🎓 Education & 💼 Experience
-
----
 
 ### 🎓 Education  
 **B.Tech in Computer Science**  
 _Amrita Vishwa Vidyapeetham_  
-2019 – 2023  
-
----
+2021 – 2025  
 
 ### 💼 Experience  
 **Providence India — Internship**  
 **→** Data Engineering (5 months)  
 **→** Software Development (2 months)  
-Jan 2024 – Present
  
-
+---
 <h3>💻 Programming Languages</h3>
 <div align="center">
   <table style="border-style: hidden;">
