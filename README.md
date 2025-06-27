@@ -15,14 +15,18 @@ NSS Volunteer
 </div>
 <br>
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavana-n21411/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bhavananannuru@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/bhavananaidu18"><img src="https://img.shields.io/badge/TryHackMe-000000?logo=tryhackme&logoColor=white" /></a>
 </p>
 
----
 
+
+
+##  Tech Stack
 
 <div align="center">
 
@@ -33,8 +37,8 @@ NSS Volunteer
 | <strong>Cloud, DB & DevOps</strong>         | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="31"/> |
 
 </div>
----
 
+<br><br>
 
 ##  GitHub Statistics
 
@@ -52,7 +56,7 @@ NSS Volunteer
 </div>
 
 
----
+
 
 
 ##  Recent Public Projects
@@ -60,12 +64,12 @@ NSS Volunteer
 - [cyber_security_journal](https://github.com/BhavanaNannuru/cyber_security_journal): Daily cybersecurity learning journal from TryHackMe and labs.
 - [flask_app](https://github.com/BhavanaNannuru/flask_app): A basic Flask project for backend experimentation and learning deployment basics.
 
----
+
 
 ## 💡 Quote I Live By
 
 > “Stay positive, work hard, and make it happen!”
 
----
+
 
 
