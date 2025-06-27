@@ -1,10 +1,18 @@
-\# Hi there, I'm Bhavana Nannuru! 👋
+# 👋 Hi, I’m Bhavana Nannuru!
 
-Welcome to my GitHub! I’m a passionate and energetic Computer Science graduate, recently stepped into the professional world with hands-on experience in Data Engineering and Software Development.
+Welcome to my GitHub!
+
+I'm a Computer Science graduate with hands-on experience in software development and data engineering. I’m driven by curiosity, energized by challenges, and inspired by building secure, efficient, and meaningful tech solutions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BhavanaNannuru-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhavana-n21411/)
+[![Email](https://img.shields.io/badge/Gmail-bhavananannuru%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bhavananannuru@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=BhavanaNannuru&style=flat-square&color=blue)
+
 
 ---
 
 ## 👩‍💻 About Me
+Positive attitude | Lively spirit | Teamwork | Love for volunteering | Caring for the environment
 
 - 🎓 **B.Tech in Computer Science** | Fresh out of college, hungry to learn and grow.
 - 💼 **Internships at Providence India:**  
@@ -23,30 +31,42 @@ Welcome to my GitHub! I’m a passionate and energetic Computer Science graduate
 
 ---
 
-## ⚡ Technical Skills
+## 🛠️ Tech Stack
 
-- **Programming Languages:** Python, C, C++, Java, TypeScript, HTML, CSS  
-- **Frameworks & Libraries:** Angular, Django, Flask, Bootstrap, Entity Framework  
-- **Data & Analytics Tools:** Power BI, Power Query, Power BI Service, Excel  
-- **Dev & DevOps:** VS Code, Azure DevOps, Git, Jenkins  
-- **Databases & Cloud:** MS SQL Server, MySQL, Snowflake, Databricks  
-- **Certifications:**  
-  - Google Cybersecurity Professional Certificate (Coursera) — SIEM tools, Python, Linux, SQL, Threat Analysis  
-  - Google AI Essentials (Coursera)
-- **Interests:** Data Engineering, Machine Learning, Cybersecurity, Solution Design
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="MS SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure DevOps"/>
+</p>
 
 ---
 
-## 🌟 Strengths
+## 📈 GitHub Stats
 
-Positive attitude | Lively spirit | Teamwork | Love for volunteering | Caring for the environment
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhavanaNannuru&show_icons=true&theme=default" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavanaNannuru&theme=default" width="49%" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
+## 📌 Recent Public Projects
 
-- [LinkedIn](https://www.linkedin.com/in/bhavana-n21411/)
-- [Mail](bhavananannuru@gmail.com)
+<!-- START_SECTION:recent_repos -->
+<!-- This section will be automatically updated with recent repositories -->
+<!-- END_SECTION:recent_repos -->
 
 ---
 
