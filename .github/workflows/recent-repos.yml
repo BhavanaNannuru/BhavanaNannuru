@@ -1,0 +1,16 @@
+name: Update Recent Repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Readme-Workflows/recent-repos@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          max_repos: 5
