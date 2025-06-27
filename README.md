@@ -21,99 +21,22 @@ NSS Volunteer
   <a href="https://tryhackme.com/p/bhavananaidu18"><img src="https://img.shields.io/badge/TryHackMe-000000?logo=tryhackme&logoColor=white" /></a>
 </p>
 
-
-
----
-<h3>💻 Programming Languages</h3>
-<div align="center">
-  <table style="border-style: hidden;">
-    <tr>
-      <td align="center" width="100" style="border-style: hidden;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/><br>Python
-      </td>
-      <td align="center" width="100" style="border-style: hidden;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C"/><br>C
-      </td>
-      <td align="center" width="100" style="border-style: hidden;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/><br>C++
-      </td>
-      <td align="center" width="100" style="border-style: hidden;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/><br>Java
-      </td>
-      <td align="center" width="100" style="border-style: hidden;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/><br>TypeScript
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Frontend -->
-<h3>🌐 Frontend & UI</h3>
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" width="100" style="border: none;"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/><br>HTML5
-      </td>
-      <td align="center" width="100" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/><br>CSS3
-      </td>
-      <td align="center" width="100" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" title="Angular"/><br>Angular
-      </td>
-      <td align="center" width="100" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/><br>Bootstrap
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Backend -->
-<h3>🧰 Backend & Frameworks</h3>
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" width="100" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask" style="background-color: white; padding: 4px; border-radius: 6px;" /><br>Flask
-      </td>
-      <td align="center" width="100" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/><br>Django
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- DevOps, DB -->
-<h3>☁️ Cloud, DB & DevOps</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/><br>MySQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="SQL Server"/><br>SQL Server
-      </td>
-      <td align="center" width="100">
-        Snowflake
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/><br>Git
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure DevOps"/><br>Azure
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" title="Jenkins"/><br>Jenkins
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 ---
 
-## 📊 GitHub Statistics
+
+<div align="center">
+
+| <strong>Programming Languages</strong>     | <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" height="31"/> &nbsp; <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="31"/> |
+|:--|:--|
+| <strong>Frontend & UI</strong>              | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="31"/> |
+| <strong>Backend & Frameworks</strong>        | <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="31"/> |
+| <strong>Cloud, DB & DevOps</strong>         | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="31"/> |
+
+</div>
+---
+
+
+##  GitHub Statistics
 
 <div align="center">
 
@@ -132,7 +55,7 @@ NSS Volunteer
 ---
 
 
-## 📁 Recent Public Projects
+##  Recent Public Projects
 
 - [cyber_security_journal](https://github.com/BhavanaNannuru/cyber_security_journal): Daily cybersecurity learning journal from TryHackMe and labs.
 - [flask_app](https://github.com/BhavanaNannuru/flask_app): A basic Flask project for backend experimentation and learning deployment basics.
@@ -144,8 +67,5 @@ NSS Volunteer
 > “Stay positive, work hard, and make it happen!”
 
 ---
-
-
-
 
 
