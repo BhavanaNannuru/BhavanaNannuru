@@ -122,10 +122,11 @@ NSS Volunteer
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavanaNannuru&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000" width="375"/>
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=BhavanaNannuru&theme=github-dark&hide_border=true)
-  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=BhavanaNannuru&theme=algolia&hide_border=true)
+
 
 </div>
+
 
 ---
 
@@ -142,5 +143,8 @@ NSS Volunteer
 > “Stay positive, work hard, and make it happen!”
 
 ---
+
+
+
 
 
