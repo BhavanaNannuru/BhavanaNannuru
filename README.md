@@ -115,15 +115,11 @@ NSS Volunteer
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BhavanaNannuru&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile&bg_color=00000000" width="450"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavanaNannuru&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000" width="375"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhavanaNannuru&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile&bg_color=00000000" width="340"/>
+  <img src="https://streak-stats.demolab.com?user=BhavanaNannuru&theme=tokyonight&hide_border=true&background=00000000" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavanaNannuru&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000" width="340"/>
+</p>
 
 ---
 
@@ -141,14 +137,4 @@ NSS Volunteer
 
 ---
 
-
-
-## 📊 GitHub Stats
-
-![BhavanaNannuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavanaNannuru&show_icons=true&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=BhavanaNannuru&theme=github-dark&hide_border=true)
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BhavanaNannuru&theme=github-dark)
-
-<!-- Or use your custom screenshot if you prefer -->
-<!-- ![Contributions calendar](image1) -->
 
