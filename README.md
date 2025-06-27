@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Bhavana Nannuru 👋</h1>
+<h1 align="center">Hi, I’m Bhavana Nannuru <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <div align="center">
 Python Automation &nbsp;|&nbsp;
 Pentester &nbsp;|&nbsp;
@@ -51,25 +51,5 @@ NSS Volunteer
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=BhavanaNannuru&theme=github-dark&hide_border=true)
 
-
-
 </div>
-
-
-
-
-
-##  Recent Public Projects
-
-- [cyber_security_journal](https://github.com/BhavanaNannuru/cyber_security_journal): Daily cybersecurity learning journal from TryHackMe and labs.
-- [flask_app](https://github.com/BhavanaNannuru/flask_app): A basic Flask project for backend experimentation and learning deployment basics.
-
-
-
-## 💡 Quote I Live By
-
-> “Stay positive, work hard, and make it happen!”
-
-
-
 
