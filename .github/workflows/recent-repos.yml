@@ -1,16 +1,21 @@
-name: Update Recent Repos
+name: Update Recent Repos in README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs every day at midnight UTC
+    - cron: '0 0 * * *'  # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Readme-Workflows/recent-repos@main
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub repo list
+        uses: gayanvoice/github-profile-projects-list@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           max_repos: 5
+          sort_by: pushed
+          hide: false
