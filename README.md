@@ -118,11 +118,11 @@ NSS Volunteer
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BhavanaNannuru&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile&bg_color=00000000" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BhavanaNannuru&show_icons=true&count_private=true&hide_border=true&theme=rad&rank_icon=percentile&bg_color=00000000" width="450"/>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavanaNannuru&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000" width="375"/>
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=BhavanaNannuru&theme=radical&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=BhavanaNannuru&theme=github-dark&hide_border=true)
 
 
 
