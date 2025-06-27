@@ -7,12 +7,10 @@ I'm a Computer Science graduate with hands-on experience in software development
 ---
 
 <h2>👩‍💻 About Me</h2>
-
+💬 <i>Curious by nature, driven by challenges, and energized by purpose.</i>
 <table>
 <tr>
 <td>
-
-💬 <i>Curious by nature, driven by challenges, and energized by purpose.</i>
 
 ### 🧠 Mindset  
 Positive attitude • Lively spirit • Team-oriented • Environmentally aware • Love for volunteering
