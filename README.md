@@ -4,9 +4,9 @@ Welcome to my GitHub!
 
 I'm a Computer Science graduate with hands-on experience in software development and data engineering. I’m driven by curiosity, energized by challenges, and inspired by building secure, efficient, and meaningful tech solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BhavanaNannuru-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhavana-n21411/)
-[![Email](https://img.shields.io/badge/Gmail-bhavananannuru%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bhavananannuru@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=BhavanaNannuru&style=flat-square&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BhavanaNannuru-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhavana-n21411/)  
+[![Email](https://img.shields.io/badge/Gmail-bhavananannuru%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bhavananannuru@gmail.com)  
+
 
 
 ---
@@ -49,15 +49,6 @@ Positive attitude | Lively spirit | Teamwork | Love for volunteering | Caring fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="MS SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure DevOps"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhavanaNannuru&show_icons=true&theme=default" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavanaNannuru&theme=default" width="49%" />
 </p>
 
 ---
