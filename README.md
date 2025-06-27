@@ -1,25 +1,38 @@
 <h1 align="center">Hi, I’m Bhavana Nannuru 👋</h1>
-<p align="center"><i>Curious by nature. Driven by challenges. Energized by purpose.</i></p>
+<div align="center">
+<i>Curious by nature. Driven by challenges. Energized by purpose.</i><br>
+Python Automation &nbsp;|&nbsp;
+Pentester &nbsp;|&nbsp;
+Red Teamer &nbsp;|&nbsp;
+Data Engineer &nbsp;|&nbsp;
+Angular Developer &nbsp;|&nbsp;
+NSS Volunteer
+
+</div>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavana-n21411/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bhavananannuru@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/bhavananaidu18"><img src="https://img.shields.io/badge/TryHackMe-000000?logo=tryhackme&logoColor=white" /></a>
 </p>
 
-
+## 🎓 Education & 💼 Experience
 
 ---
 
-## 👩‍💻 About Me
+### 🎓 Education  
+**B.Tech in Computer Science**  
+_Amrita Vishwa Vidyapeetham_  
+2019 – 2023  
 
-🎓 **B.Tech in Computer Science** — Amrita Vishwa Vidyapeetham  
-💼 **Internships at Providence India**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Data Engineer (5 months)  
-&nbsp;&nbsp;&nbsp;&nbsp;• Developer (2 months)  
-💡 Python enthusiast — automation, optimization, and problem solving  
-🔐 Cybersecurity explorer — active on [TryHackMe](https://tryhackme.com/p/bhavananaidu18)  
-🌱 Passionate about creative security engineering  
-💛 NSS volunteer & eco-initiator — seedball reforestation drives  
+---
+
+### 💼 Experience  
+**Providence India — Internship**  
+**→** Data Engineering (5 months)  
+**→** Software Development (2 months)  
+Jan 2024 – Present
+ 
 
 <h3>💻 Programming Languages</h3>
 <div align="center">
