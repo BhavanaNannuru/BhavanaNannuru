@@ -1,13 +1,8 @@
 # 👋 Hi, I’m Bhavana Nannuru!
+[LinkedIn](https://www.linkedin.com/in/bhavana-n21411/)  [Mail](bhavananannuru@gmail.com)  
 
 Welcome to my GitHub!
-
 I'm a Computer Science graduate with hands-on experience in software development and data engineering. I’m driven by curiosity, energized by challenges, and inspired by building secure, efficient, and meaningful tech solutions.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BhavanaNannuru-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhavana-n21411/)  
-[![Email](https://img.shields.io/badge/Gmail-bhavananannuru%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bhavananannuru@gmail.com)  
-
-
 
 ---
 
