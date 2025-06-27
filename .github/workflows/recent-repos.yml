@@ -1,21 +1,26 @@
-name: Update Recent Repos in README
+name: Update GitHub Profile README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # every day at midnight UTC
+    - cron: '0 0 * * *'  # daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate GitHub repo list
-        uses: gayanvoice/github-profile-projects-list@v2
+      - name: Update recent repos/activity
+        uses: theboi/github-update-readme@v1.3.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          max_repos: 5
-          sort_by: pushed
-          hide: false
+          header: "Recent Public Projects"
+          subhead: "Shows your most recently active repositories."
+          footer: "📈 Updated automatically by GitHub Actions"
+          repoCount: 5
+          reposPerRow: 5
+          imageSize: 150
