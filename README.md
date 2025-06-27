@@ -50,9 +50,8 @@ Positive attitude | Lively spirit | Teamwork | Love for volunteering | Caring fo
 
 ## 📌 Recent Public Projects
 
-<!-- START_SECTION:recent_repos -->
-<!-- This section will be automatically updated with recent repositories -->
-<!-- END_SECTION:recent_repos -->
+<!-- RECENT_ACTIVITY:START -->
+<!-- RECENT_ACTIVITY:END -->
 
 ---
 
