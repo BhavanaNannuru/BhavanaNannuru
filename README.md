@@ -35,8 +35,11 @@ NSS Volunteer
 | <strong>Frontend & UI</strong>              | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="31"/> |
 | <strong>Backend & Frameworks</strong>        | <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="31"/> |
 | <strong>Cloud, DB & DevOps</strong>         | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="31"/> |
+| <strong>Data & Analytics</strong>           | <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="31"/> |
 
 </div>
+
+
 
 <br><br>
 
