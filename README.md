@@ -36,8 +36,11 @@ NSS Volunteer
 | <strong>Backend & Frameworks</strong>        | <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="31"/> |
 | <strong>Cloud, DB & DevOps</strong>         | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="31"/> |
 | <strong>Data & Analytics</strong>           | <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="31"/> |
+| <strong>Cybersecurity</strong>  | <img src="https://img.shields.io/badge/Linux%20Fundamentals-000000?style=flat&logo=linux&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Cryptography%20Basics-2E8B57?style=flat&logo=gnupg&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Networking%20Basics-4169E1?style=flat&logo=cisco&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Pentesting%20Fundamentals-B22222?style=flat&logo=protonvpn&logoColor=white" height="31"/> &nbsp; <img src="https://img.shields.io/badge/Threat%20Intel%20Basics-8B008B?style=flat&logo=bookstack&logoColor=white" height="31"/> |
+
 
 </div>
+
 
 
 
