@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I’m Bhavana Nannuru <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <div align="center">
 Python Automation &nbsp;|&nbsp;
-Pentester &nbsp;|&nbsp;
-Red Teamer &nbsp;|&nbsp;
 Data Engineer &nbsp;|&nbsp;
 Angular Developer &nbsp;|&nbsp;
+Pentester &nbsp;|&nbsp;
+Red Teamer &nbsp;|&nbsp;
 NSS Volunteer
   <br>
   <br>
