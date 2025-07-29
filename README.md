@@ -27,8 +27,6 @@ NSS Volunteer
 
 
 ##  Tech Stack
-
-
 <div align="center">
   
 | <strong>Programming Languages</strong>     | <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" height="21"/> &nbsp; <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" height="21"/> &nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="21"/> &nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" height="21"/> &nbsp; <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="21"/> |
