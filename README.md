@@ -17,7 +17,6 @@ NSS Volunteer
 
 
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavana-n21411/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bhavananannuru@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
