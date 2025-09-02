@@ -3,7 +3,7 @@
 Python Automation &nbsp;|&nbsp;
 Data Engineer &nbsp;|&nbsp;
 Angular Developer &nbsp;|&nbsp;
-Pentester &nbsp;|&nbsp;
+React Developer &nbsp;|&nbsp;
 Red Teamer &nbsp;|&nbsp;
 NSS Volunteer
   <br>
