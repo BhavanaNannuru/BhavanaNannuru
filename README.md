@@ -13,7 +13,7 @@ NSS Volunteer
   <strong>Software Developer Intern</strong> — Providence India (June – Aug 2024) &nbsp;|&nbsp;
   <strong>Data Engineering Intern</strong> — Providence India (Jan – Jun 2025)<br>
   <strong>Cyber Security Research Assistant</strong> — Amrita Vishwa Vidyapeetham (Jul — Oct 2025) <br>
-  <strong>Software Engineeri</strong> — Providence India (Oct 2025 — Present)<br>
+  <strong>Software Engineer</strong> — Providence India (Oct 2025 — Present)<br>
 </div>
 <br>
 
