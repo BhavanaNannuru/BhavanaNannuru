@@ -11,7 +11,9 @@ NSS Volunteer
   
   <strong>B.Tech CSE</strong>, Amrita Vishwa Vidyapeetham (2021–2025) <br>
   <strong>Software Developer Intern</strong> — Providence India (June – Aug 2024) &nbsp;|&nbsp;
-  <strong>Data Engineering Intern</strong> — Providence India (Jan – Jun 2025)
+  <strong>Data Engineering Intern</strong> — Providence India (Jan – Jun 2025)<br>
+  <strong>Cyber Security Research Assistant</strong> — Amrita Vishwa Vidyapeetham (Jul — Oct 2025) <br>
+  <strong>Software Engineeri</strong> — Providence India (Oct 2025 — Present)<br>
 </div>
 <br>
 
@@ -42,15 +44,3 @@ NSS Volunteer
 
 
 <br><br>
-
-##  GitHub Statistics
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BhavanaNannuru&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile&bg_color=00000000" width="450"/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavanaNannuru&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000" width="375"/>
-  
-  
-</div>
