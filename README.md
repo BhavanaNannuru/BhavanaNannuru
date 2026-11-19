@@ -24,10 +24,10 @@ NSS Volunteer
 
 I build software that turns complex data and models into tools people can actually use. Most recently, I spent two years at **Providence India** working across full-stack development, data engineering and software engineering. I'm at my best inside large, unfamiliar codebases: tracing how data flows, debugging, and upgrading them to modern stacks. I care about technology that serves people, a thread that runs from four years of community service with NSS to building healthcare applications.
 
-- 🎓 MCS at **UIUC**, studying Advanced NLP, Applied ML and Data Mining
-- 🔭 Currently working on **LLMs**: RAG pipelines, LoRA/QLoRA fine-tuning and evaluation
-- 🌱 Next up: software engineering, computer vision and user-centred ML
-- 🤝 Open to **full-stack, data and research assistant roles**
+- MCS at **UIUC**, studying Advanced NLP, Applied ML and Data Mining
+- Currently working on **LLMs**: RAG pipelines, LoRA/QLoRA fine-tuning and evaluation
+
+
 
 ## Experience
 
@@ -57,41 +57,22 @@ I build software that turns complex data and models into tools people can actual
 
 </div>
 
-## Featured Projects
-
-**🧠 NeuroTrack: AI-Powered Neurological Rehabilitation Platform** · *Providence Hackathon*<br>
-A platform that helps patients and doctors continue rehabilitation beyond the clinic through personalized therapy, recovery tracking, predictive analytics and an AI Rehab Coach voice agent. I owned the React front end, Python APIs on Azure Function Apps, the Azure SQL database, hosting on Azure Web Apps, and interactive recovery dashboards.<br>
-`React` `Python` `Azure Functions` `Azure SQL` `Azure Web Apps` `Azure AI`
-
-**🏥 Cloud-Native Healthcare Appointment System**<br>
-Patients book appointments, track their status, view medical records and get reminders. Doctors manage day/week/month schedules, confirm or reject requests, and get automatic rejection of last-minute bookings. The app sends in-app and email notifications, including daily digests. I built everything except the chatbot.<br>
-`React` `TypeScript` `Node.js` `Azure Functions` `Azure SQL` `Blob Storage` `GitHub Actions`
-
-**📄 Document-Grounded LLM Assistant (RAG)**<br>
-An end-to-end PDF-to-RAG pipeline with metadata-aware chunking, cross-encoder reranking and Recall@3 evaluation. It compares pretrained, RAG-enhanced and LoRA/QLoRA fine-tuned Qwen2.5-1.5B models.<br>
-`Python` `Hugging Face` `Sentence Transformers` `LoRA/QLoRA`
-
-**🔬 LLM Fine-Tuning & Evaluation Lab**<br>
-A reproducible framework comparing prompt-engineered, RAG, LoRA and QLoRA LLMs on accuracy, hallucination rate, latency, GPU memory and inference cost.<br>
-`PyTorch` `Hugging Face` `4-bit Quantization`
-
-**🧬 [Brain Tumor MRI Classification](https://github.com/BhavanaNannuru/brain_tumor_classification)**<br>
-MRI brain tumor classification using reduced numerical features and multiple ML models. It's related to my paper in *Array* (Elsevier) on explainable classification with GAN-based augmentation.<br>
-`Python` `scikit-learn` `Jupyter`
-
-> Much of my professional work is under corporate policy, so I share it as architecture walkthroughs rather than public code.
-
 ## Publications
 
-- **Urban Traffic Intelligence: Merging Computer Vision and Reinforcement Learning for Proactive Congestion Control.** IEEE STPEC 2025, NIT Goa
-- **[Efficient and Explainable MRI Brain Tumor Classification via Adaptive GAN-Based Data Augmentation](https://doi.org/10.1016/j.array.2025.100609).** *Array*, vol. 28, Dec 2025
-- **Resilient Water Solutions for Sustainable Livelihoods: Tackling ‘Soft’ and ‘Hard’ Water Quality Challenges in Rural India.** AMMASRI 2025 (from Amrita Live-in-Labs fieldwork)
+- **[Urban Traffic Intelligence: Merging Computer Vision and Reinforcement Learning for Proactive Congestion Control](https://ieeexplore.ieee.org/document/11490570)**<br>
+  2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC), NIT Goa · Dec 2025
+
+- **[Efficient and Explainable MRI Brain Tumor Classification via Adaptive GAN-Based Data Augmentation](https://www.sciencedirect.com/science/article/pii/S259000562500236X)**<br>
+  *Array* (Elsevier), vol. 28, Art. no. 100609 · Dec 2025
+
+- **[Resilient Water Solutions for Sustainable Livelihoods: Tackling ‘Soft’ and ‘Hard’ Water Quality Challenges in Rural India](https://www.researchgate.net/publication/397842047_Resilient_Water_Solutions_for_Sustainable_Livelihoods_Tackling_Soft_and_Hard_Water_Quality_Challenges_in_Rural_India)**<br>
+  Proc. International Conference on Advances in Materials, Modeling, and Analysis for Sustainable and Resilient Infrastructure, Vol. 1, pp. 479–492 · Nov 2025 · *from Amrita Live-in-Labs fieldwork*
 
 ## Beyond Code
 
-- 🤝 **NSS Student Coordinator**: led 200+ volunteers across 25+ community initiatives, including events with 2,000+ participants, blood donation drives, pond restoration and teaching children from government schools
-- 🗣️ **Amrita Debating Society**: speaker for proposition and opposition, and adjudicator
-- 🌾 **Amrita Live-in-Labs**: a week of field research in a Kerala village using human-centred design
+- **NSS Student Coordinator**: led 200+ volunteers across 25+ community initiatives, including events with 2,000+ participants, blood donation drives, pond restoration and teaching children from government schools
+- **Amrita Students Debating Society**: speaker for proposition and opposition, and adjudicator
+- **Amrita Live-in-Labs**: a week of field research in a Kerala village using human-centred design
 
 <br>
 <p align="center"><i>Always learning, always building, preferably for people.</i></p>
